@@ -196,7 +196,7 @@ function App() {
 
       {/* Footer */}
       <footer className="py-6 text-center text-[var(--slate)]">
-        <p>Built with React & Tailwind CSS</p>
+        <p>Made by Ananya  Gupta</p>
       </footer>
     </div>
   );
