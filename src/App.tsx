@@ -184,7 +184,7 @@ function App() {
               <Github className="h-8 w-8" />
             </motion.a>
             <motion.a
-              href="https://linkedin.com/in/ananyagupta"
+              href="https://www.linkedin.com/in/ananya-gupta-595a75294/"
               whileHover={{ y: -2 }}
               className="text-[var(--green)] hover:text-[var(--lightest-slate)]"
             >
